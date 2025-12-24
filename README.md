@@ -20,59 +20,59 @@ I enjoy working on clean REST APIs, authentication & authorization (**JWT, Fireb
 [![Email](https://img.shields.io/badge/Email-atharve004@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:atharve004@gmail.com)
 
 ---
-
-# 💻 Tech Stack
 # 💻 Tech Stack
 
-### 👨‍💻 Languages & Markup
-![Java](https://img.shields.io/badge/-?style=for-the-badge&logo=openjdk&logoColor=white&color=ED8B00)
-![JavaScript](https://img.shields.io/badge/-?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=323330)
-![TypeScript](https://img.shields.io/badge/-?style=for-the-badge&logo=typescript&logoColor=white&color=007ACC)
-![HTML5](https://img.shields.io/badge/-?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
-![CSS3](https://img.shields.io/badge/-?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
+<p align="center">
 
----
+<!-- Languages -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/>
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/-?style=for-the-badge&logo=react&logoColor=61DAFB&color=20232A)
-![Next.js](https://img.shields.io/badge/-?style=for-the-badge&logo=nextdotjs&logoColor=white&color=000000)
-![TailwindCSS](https://img.shields.io/badge/-?style=for-the-badge&logo=tailwind-css&logoColor=white&color=38B2AC)
-![Vite](https://img.shields.io/badge/-?style=for-the-badge&logo=vite&logoColor=white&color=646CFF)
-![Redux](https://img.shields.io/badge/-?style=for-the-badge&logo=redux&logoColor=white&color=764ABC)
+<br/><br/>
 
----
+<!-- Frontend -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48"/>
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/-?style=for-the-badge&logo=node.js&logoColor=white&color=6DA55F)
-![Express.js](https://img.shields.io/badge/-?style=for-the-badge&logo=express&logoColor=white&color=404D59)
-![Spring](https://img.shields.io/badge/-?style=for-the-badge&logo=spring&logoColor=white&color=6DB33F)
-![Spring Boot](https://img.shields.io/badge/-?style=for-the-badge&logo=springboot&logoColor=white&color=6DB33F)
+<br/><br/>
 
----
+<!-- Backend -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springboot/springboot-original.svg" width="48"/>
 
-### 🗄️ Databases & Auth
-![MongoDB](https://img.shields.io/badge/-?style=for-the-badge&logo=mongodb&logoColor=white&color=4EA94B)
-![MySQL](https://img.shields.io/badge/-?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
-![Firebase](https://img.shields.io/badge/-?style=for-the-badge&logo=firebase&logoColor=ffcd34&color=1A1A1A)
-![JWT](https://img.shields.io/badge/-?style=for-the-badge&logo=jsonwebtokens&logoColor=white&color=000000)
+<br/><br/>
 
----
+<!-- Databases & Auth -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48"/>
 
-### ☁️ Cloud & DevOps
-![Docker](https://img.shields.io/badge/-?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
-![Google Cloud](https://img.shields.io/badge/-?style=for-the-badge&logo=googlecloud&logoColor=white&color=4285F4)
-![Vercel](https://img.shields.io/badge/-?style=for-the-badge&logo=vercel&logoColor=white&color=000000)
-![Render](https://img.shields.io/badge/-?style=for-the-badge&logo=render&logoColor=white&color=46E3B7)
+<br/><br/>
 
----
+<!-- Cloud & DevOps -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render-original.svg" width="48"/>
 
-### 🛠 Tools & IDEs
-![Git](https://img.shields.io/badge/-?style=for-the-badge&logo=git&logoColor=white&color=F05033)
-![GitHub](https://img.shields.io/badge/-?style=for-the-badge&logo=github&logoColor=white&color=121011)
-![Postman](https://img.shields.io/badge/-?style=for-the-badge&logo=postman&logoColor=white&color=FF6C37)
-![VS Code](https://img.shields.io/badge/-?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=007ACC)
-![IntelliJ IDEA](https://img.shields.io/badge/-?style=for-the-badge&logo=intellijidea&logoColor=white&color=000000)
+<br/><br/>
 
+<!-- Tools & IDEs -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48"/>
+
+</p>
 ---
 
 # 📊 GitHub Stats

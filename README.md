@@ -22,20 +22,56 @@ I enjoy working on clean REST APIs, authentication & authorization (**JWT, Fireb
 ---
 
 # 💻 Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+# 💻 Tech Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 👨‍💻 Languages & Markup
+![Java](https://img.shields.io/badge/-?style=for-the-badge&logo=openjdk&logoColor=white&color=ED8B00)
+![JavaScript](https://img.shields.io/badge/-?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=323330)
+![TypeScript](https://img.shields.io/badge/-?style=for-the-badge&logo=typescript&logoColor=white&color=007ACC)
+![HTML5](https://img.shields.io/badge/-?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
+![CSS3](https://img.shields.io/badge/-?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
 
-![Node.js](https://img.shields.io/badge/Node-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+---
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 🎨 Frontend
+![React](https://img.shields.io/badge/-?style=for-the-badge&logo=react&logoColor=61DAFB&color=20232A)
+![Next.js](https://img.shields.io/badge/-?style=for-the-badge&logo=nextdotjs&logoColor=white&color=000000)
+![TailwindCSS](https://img.shields.io/badge/-?style=for-the-badge&logo=tailwind-css&logoColor=white&color=38B2AC)
+![Vite](https://img.shields.io/badge/-?style=for-the-badge&logo=vite&logoColor=white&color=646CFF)
+![Redux](https://img.shields.io/badge/-?style=for-the-badge&logo=redux&logoColor=white&color=764ABC)
+
+---
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/-?style=for-the-badge&logo=node.js&logoColor=white&color=6DA55F)
+![Express.js](https://img.shields.io/badge/-?style=for-the-badge&logo=express&logoColor=white&color=404D59)
+![Spring](https://img.shields.io/badge/-?style=for-the-badge&logo=spring&logoColor=white&color=6DB33F)
+![Spring Boot](https://img.shields.io/badge/-?style=for-the-badge&logo=springboot&logoColor=white&color=6DB33F)
+
+---
+
+### 🗄️ Databases & Auth
+![MongoDB](https://img.shields.io/badge/-?style=for-the-badge&logo=mongodb&logoColor=white&color=4EA94B)
+![MySQL](https://img.shields.io/badge/-?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
+![Firebase](https://img.shields.io/badge/-?style=for-the-badge&logo=firebase&logoColor=ffcd34&color=1A1A1A)
+![JWT](https://img.shields.io/badge/-?style=for-the-badge&logo=jsonwebtokens&logoColor=white&color=000000)
+
+---
+
+### ☁️ Cloud & DevOps
+![Docker](https://img.shields.io/badge/-?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
+![Google Cloud](https://img.shields.io/badge/-?style=for-the-badge&logo=googlecloud&logoColor=white&color=4285F4)
+![Vercel](https://img.shields.io/badge/-?style=for-the-badge&logo=vercel&logoColor=white&color=000000)
+![Render](https://img.shields.io/badge/-?style=for-the-badge&logo=render&logoColor=white&color=46E3B7)
+
+---
+
+### 🛠 Tools & IDEs
+![Git](https://img.shields.io/badge/-?style=for-the-badge&logo=git&logoColor=white&color=F05033)
+![GitHub](https://img.shields.io/badge/-?style=for-the-badge&logo=github&logoColor=white&color=121011)
+![Postman](https://img.shields.io/badge/-?style=for-the-badge&logo=postman&logoColor=white&color=FF6C37)
+![VS Code](https://img.shields.io/badge/-?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=007ACC)
+![IntelliJ IDEA](https://img.shields.io/badge/-?style=for-the-badge&logo=intellijidea&logoColor=white&color=000000)
 
 ---
 

@@ -8,23 +8,31 @@ Strong believer in *learning by building* and *writing clean, secure code*.
 - 🔐 Auth & Security: JWT, Firebase Auth  
 - ⚙️ Backend APIs & system design  
 - 📈 Performance & scalability  
-- 🧠 250+ DSA problems solved  
+- 🧠 350+ DSA problems solved  
 
 💼 **Open to Full-Stack / Backend Roles**
 
 ---
 
 ## 🌐 Connect With Me
-<p align="left">
-  <a href="https://github.com/atharve16">
-    <img src="https://img.shields.io/badge/GitHub-atharve16-181717?style=for-the-badge&logo=github"/>
+
+<p align="center">
+  <a href="https://github.com/atharve16" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-atharve16-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/atharve-agrawal/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Atharve%20Agrawal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:atharve004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-atharve004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://leetcode.com/u/atharve16/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-atharve16-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+<p align="center">
+  🚀 Let’s connect, collaborate, and build something amazing!
 </p>
 
 ---
@@ -83,11 +91,4 @@ Strong believer in *learning by building* and *writing clean, secure code*.
 ## 🏆 Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=atharve16&theme=radical&no-frame=true&row=1"/>
-</p>
-
----
-
-### ✨ Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>

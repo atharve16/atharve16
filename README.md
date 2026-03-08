@@ -18,16 +18,22 @@ Strong believer in *learning by building* and *writing clean, secure code*.
 
 <p align="center">
   <a href="https://github.com/atharve16" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-atharve16-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+  
   <a href="https://www.linkedin.com/in/atharve-agrawal/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Atharve%20Agrawal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+  
   <a href="mailto:atharve004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-atharve004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="45"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+  
   <a href="https://leetcode.com/u/atharve16/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-atharve16-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="45"/>
   </a>
 </p>
 
@@ -37,40 +43,27 @@ Strong believer in *learning by building* and *writing clean, secure code*.
 
 ---
 
-## 🛠 Tech Stack
+<h2 align="center">💻 Tech Stack</h2>
 
-### Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,cpp,html,css,js,ts" />
 </p>
 
-### Frontend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+<h3 align="center">Frontend Development</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" title="React Native"/>
 </p>
 
-### Backend & Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<h3 align="center">Backend & Databases</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,mongodb,mysql,postgres,firebase,supabase" />
 </p>
 
-### DevOps & Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+<h3 align="center">DevOps & Tools</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws,gcp" />
 </p>
 
 ---
@@ -87,8 +80,3 @@ Strong believer in *learning by building* and *writing clean, secure code*.
 </p>
 
 ---
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atharve16&theme=radical&no-frame=true&row=1"/>
-</p>
